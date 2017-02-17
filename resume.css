@@ -36,9 +36,15 @@ h2 {
   font-size: 10px;
 }
 
-ul {
+.tech_exp {
   font-size: 10px;
-  list-style-type: circle; 
+  list-style-type: circle;
+}
+
+.prior_exp {
+  font-size: 10px;
+  list-style-type: circle;
+  margin-top: 20px;
 }
 
 /*div {
