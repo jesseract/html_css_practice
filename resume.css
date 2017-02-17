@@ -15,15 +15,48 @@ h2 {
   font-size: 12px;
 }
 
-h3 {
+.job_title {
   font-size: 11px;
+  float: left;
+  text-align: left;
+  width: 50%;
+  margin-top: -8px;
 }
 
-p {
+.job_dates {
+  font-size: 11px;
+  float: right;
+  text-align: right;
+  width: 50%;
+  margin-top: -8px;
+}
+
+
+.job_description {
   font-size: 10px;
 }
 
 ul {
   font-size: 10px;
-  list-style-type: square;
+  list-style-type: circle; 
+}
+
+/*div {
+  box-sizing: border-box;
+  margin: auto;
+  text-align: center;
+  font-size: 11px;
+}*/
+
+strong {
+  font-size: 15px;
+}
+
+hr {
+  margin-top: -5px;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 15px;
 }
